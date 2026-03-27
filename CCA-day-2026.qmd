@@ -1,6 +1,5 @@
 ---
-title: CCA Away Day
-subtitle: 10 min Teaser Talk
+title: CCA Away Day 2026
 format: clean-revealjs
 author:
   - name: Florian Oswald
@@ -55,9 +54,9 @@ Convergence in the 20th Century*
 
 ::: {layout-ncol="2" layout-nrow="1"}
 
-![SIP circuit construction, 1927](../images/1928-29-circuiti.jpg){#fig-1927-SIP}
+![SIP circuit construction, 1927](images/1928-29-circuiti.jpg){#fig-1927-SIP}
 
-![Telephone details of all *foundries*, 1932](../images/italiaonline-1932-fonderie.jpg){#fig-1932-IO}
+![Telephone details of all *foundries*, 1932](images/italiaonline-1932-fonderie.jpg){#fig-1932-IO}
 
 :::
 
@@ -67,7 +66,7 @@ Convergence in the 20th Century*
 
 
 
-![CC Turin, *SA Il Faro*, 1936](../images/1932_SA-Il-Faro.jpg){#fig-1932-CC-faro}
+![CC Turin, *SA Il Faro*, 1936](images/1932_SA-Il-Faro.jpg){#fig-1932-CC-faro}
 
 ## Projects
 
@@ -89,9 +88,9 @@ Convergence in the 20th Century*
 
 ::: {layout-ncol="2" layout-nrow="1"}
 
-![ItaliaOnline.com phone registers, 1953](../images/italiaonline-1953.jpg){#fig-1953-IO}
+![ItaliaOnline.com phone registers, 1953](images/italiaonline-1953.jpg){#fig-1953-IO}
 
-![Antenati Birth Record from Como, 1909](../images/1909-nascite-como.png){#fig-1909-antenati-nascite}
+![Antenati Birth Record from Como, 1909](images/1909-nascite-como.png){#fig-1909-antenati-nascite}
 
 :::
 
@@ -118,4 +117,23 @@ Convergence in the 20th Century*
 
 
 
-![Marriage Record from Baggio 1922](../images/1922-antenati-baggio.png)
+![Marriage Record from Baggio 1922](images/1922-antenati-baggio.png)
+
+
+## Give Us a Call! 
+
+::: {.columns}
+::: {.column}
+* This is a research platform. 
+* Give us a call! 📞
+:::
+::: {.column}
+![TIM Team](images/team.JPG)
+:::
+:::
+<!-- end columns -->
+
+
+
+
+
